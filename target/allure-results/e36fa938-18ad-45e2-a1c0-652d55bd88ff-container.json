@@ -1,0 +1,1 @@
+{"uuid":"e36fa938-18ad-45e2-a1c0-652d55bd88ff","name":"selenid","children":["67ecb281-fcba-4d6a-8963-f18feb3499af"],"befores":[{"name":"setupTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1622351824939,"stop":1622351824972}],"afters":[],"links":[],"start":1622351824912,"stop":1622351838915}
